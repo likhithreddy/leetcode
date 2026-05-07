@@ -1,5 +1,11 @@
 # LeetCode Solutions
 
+## Progress Tracker
+
+**Total Problems Solved: 31**
+
+---
+
 ## About This Repository
 
 This repository contains my solutions to LeetCode problems as I work through algorithmic challenges and data structures. Each problem is organized in its own directory with one or more solution approaches, demonstrating different techniques and optimizations.
