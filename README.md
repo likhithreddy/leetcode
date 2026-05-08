@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 32**
+**Total Problems Solved: 33**
 
 ---
 
@@ -48,3 +48,4 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 567. Permutation in String | Determine if a permutation of one string exists as a substring in another string | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [PermutationInString.java](567-permutation-in-string/PermutationInString.java) |
 | 572. Subtree of Another Tree | Determine if a tree is a subtree of another tree | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [SubtreeOfAnotherTree.java](572-subtree-of-another-tree/SubtreeOfAnotherTree.java) |
 | 704. Binary Search | Find the index of a target value in a sorted array | [Binary Search](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](704-binary-search/BinarySearch.java) |
+| 1448. Count Good Nodes in Binary Tree | Count nodes where the node value is greater than or equal to all values on the path from root to that node | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [CountGoodNodesInBinaryTree.java](1448-count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.java) |
