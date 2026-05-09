@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 33**
+**Total Problems Solved: 34**
 
 ---
 
@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 20. Valid Parentheses | Check if parentheses are valid | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [ValidParenthesis.java](20-valid-parenthesis/ValidParenthesis.java) |
 | 42. Trapping Rain Water | Calculate how much rainwater can be trapped between elevations after rainfall | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWaterPrefixSum.java](42-trapping-rain-water/TrappingRainWaterPrefixSum.java) |
 | 49. Group Anagrams | Group anagrams together from a list of strings | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [GroupAnagrams.java](49-group-anagrams/GroupAnagrams.java) |
+| 98. Validate Binary Search Tree | Determine if a binary tree is a valid BST | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ValidateBinarySearchTree.java](98-validate-binary-search-tree/ValidateBinarySearchTree.java) |
 | 100. Same Tree | Determine if two binary trees are the same | [Same Tree](https://leetcode.com/problems/same-tree/) | [SameTree.java](100-same-tree/SameTree.java) |
 | 102. Binary Tree Level Order Traversal | Perform a level order traversal of a binary tree | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [BinaryTreeLevelOrderTraversal.java](102-binary-tree-level-order-traversal/BinaryTreeLevelOrderTraversal.java) |
 | 104. Maximum Depth of Binary Tree | Find the maximum depth of a binary tree | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [MaximumDepthOfBinaryTree.java](104-maximum-depth-of-binary-tree/MaximumDepthOfBinaryTree.java) |
