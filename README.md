@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 36**
+**Total Problems Solved: 37**
 
 ---
 
@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 11. Container With Most Water | Find two lines that together with x-axis form a container that can hold the most water | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ContainerWithMostWater.java](11-container-with-most-water/ContainerWithMostWater.java) |
 | 15. 3Sum | Find all unique triplets in an array that sum to zero | [3Sum](https://leetcode.com/problems/3sum/) | [3Sum.java](15-3sum/3Sum.java) |
 | 20. Valid Parentheses | Check if parentheses are valid | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [ValidParenthesis.java](20-valid-parenthesis/ValidParenthesis.java) |
+| 21. Merge Two Sorted Lists | Merge two sorted singly linked lists into a single sorted linked list | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.java](21-merge-two-sorted-lists/MergeTwoSortedLists.java) (Optimal)<br/>[MergeTwoSortedListsRecursive.java](21-merge-two-sorted-lists/MergeTwoSortedListsRecursive.java) (Recursive) |
 | 42. Trapping Rain Water | Calculate how much rainwater can be trapped between elevations after rainfall | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWaterPrefixSum.java](42-trapping-rain-water/TrappingRainWaterPrefixSum.java) |
 | 49. Group Anagrams | Group anagrams together from a list of strings | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [GroupAnagrams.java](49-group-anagrams/GroupAnagrams.java) |
 | 98. Validate Binary Search Tree | Determine if a binary tree is a valid BST | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ValidateBinarySearchTree.java](98-validate-binary-search-tree/ValidateBinarySearchTree.java) |
