@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 38**
+**Total Problems Solved: 40**
 
 ---
 
@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 3. Longest Substring Without Repeating Characters | Find the length of the longest substring without repeating characters | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [LongestSubstringWithoutRepeatingCharactersMap.java](3-longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharactersMap.java) (Optimal)<br/>[LongestSubstringWithoutRepeatingCharactersSet.java](3-longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharactersSet.java) (Brute Force) |
 | 11. Container With Most Water | Find two lines that together with x-axis form a container that can hold the most water | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ContainerWithMostWater.java](11-container-with-most-water/ContainerWithMostWater.java) |
 | 15. 3Sum | Find all unique triplets in an array that sum to zero | [3Sum](https://leetcode.com/problems/3sum/) | [3Sum.java](15-3sum/3Sum.java) |
+| 19. Remove Nth Node From End of List | Remove the nth node from the end of a linked list | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [RemoveNthNodeFromEndOfList.java](19-remove-nth-node-from-end-of-list/RemoveNthNodeFromEndOfList.java) |
 | 20. Valid Parentheses | Check if parentheses are valid | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [ValidParenthesis.java](20-valid-parenthesis/ValidParenthesis.java) |
 | 21. Merge Two Sorted Lists | Merge two sorted singly linked lists into a single sorted linked list | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.java](21-merge-two-sorted-lists/MergeTwoSortedLists.java) (Optimal)<br/>[MergeTwoSortedListsRecursive.java](21-merge-two-sorted-lists/MergeTwoSortedListsRecursive.java) (Recursive) |
 | 42. Trapping Rain Water | Calculate how much rainwater can be trapped between elevations after rainfall | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWaterPrefixSum.java](42-trapping-rain-water/TrappingRainWaterPrefixSum.java) |
