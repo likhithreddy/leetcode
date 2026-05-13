@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 40**
+**Total Problems Solved: 41**
 
 ---
 
@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 206. Reverse Linked List | Reverse a singly linked list | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ReverseLinkedList.java](206-reverse-linked-list/ReverseLinkedList.java) |
 | 217. Contains Duplicate | Find if an array contains any duplicate values | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ContainsDuplicate.java](217-contains-duplicate/ContainsDuplicate.java) |
 | 226. Invert Binary Tree | Invert a binary tree by swapping the left and right children of all nodes | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [InvertBinaryTree.java](226-invert-binary-tree/InvertBinaryTree.java) |
+| 230. Kth Smallest Element in a BST | Find the kth smallest value in a binary search tree | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [kthSmallestElementInABST.java](230-kth-smallest-element-in-a-bst/kthSmallestElementInABST.java) |
 | 238. Product of Array Except Self | Calculate the product of all elements except the element at each index | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ProductOfArrayExceptSelf.java](238-product-of-array-except-self/ProductOfArrayExceptSelf.java) |
 | 242. Valid Anagram | Determine if two strings are anagrams of each other | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [ValidAnagramHashMap.java](242-valid-anagram/ValidAnagramHashMap.java) (Brute Force)<br/>[ValidAnagramAlphabetArray.java](242-valid-anagram/ValidAnagramAlphabetArray.java) (Optimal) |
 | 271. Encode and Decode Strings | Encode a list of strings into a single string and decode it back | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [EncodeAndDecodeStrings.java](271-encode-and-decode-strings/EncodeAndDecodeStrings.java) |
