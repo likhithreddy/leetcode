@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 43**
+**Total Problems Solved: 44**
 
 ---
 
@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 21. Merge Two Sorted Lists | Merge two sorted singly linked lists into a single sorted linked list | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.java](21-merge-two-sorted-lists/MergeTwoSortedLists.java) (Optimal)<br/>[MergeTwoSortedListsRecursive.java](21-merge-two-sorted-lists/MergeTwoSortedListsRecursive.java) (Recursive) |
 | 42. Trapping Rain Water | Calculate how much rainwater can be trapped between elevations after rainfall | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWaterPrefixSum.java](42-trapping-rain-water/TrappingRainWaterPrefixSum.java) |
 | 49. Group Anagrams | Group anagrams together from a list of strings | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [GroupAnagrams.java](49-group-anagrams/GroupAnagrams.java) |
+| 55. Jump Game | Determine if you can reach the last index of an array by jumping | [Jump Game](https://leetcode.com/problems/jump-game/) | [JumpGameDP.java](55-jump-game/JumpGameDP.java) (Brute Force)<br/>[JumpGameGreedy.java](55-jump-game/JumpGameGreedy.java) (Optimal) |
 | 74. Search a 2D Matrix | Find a target value in a sorted 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [searchA2dMatrix.java](74-search-a-2d-matrix/searchA2dMatrix.java) |
 | 98. Validate Binary Search Tree | Determine if a binary tree is a valid BST | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ValidateBinarySearchTree.java](98-validate-binary-search-tree/ValidateBinarySearchTree.java) |
 | 100. Same Tree | Determine if two binary trees are the same | [Same Tree](https://leetcode.com/problems/same-tree/) | [SameTree.java](100-same-tree/SameTree.java) |
