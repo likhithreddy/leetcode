@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 47**
+**Total Problems Solved: 48**
 
 ---
 
@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 141. Linked List Cycle | Determine if a linked list has a cycle in it | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [LinkedListCycle.java](141-linked-list-cycle/LinkedListCycle.java) |
 | 143. Reorder List | Reorder a singly linked list such that it follows the pattern: L0 → Ln → L1 → Ln-1 → ... | [Reorder List](https://leetcode.com/problems/reorder-list/) | [ReorderList.java](143-reorder-list/ReorderList.java) |
 | 150. Evaluate Reverse Polish Notation | Evaluate an expression written in Reverse Polish Notation | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [EvaluateReversePolishNotation.java](150-evaluate-reverse-polish-notation/EvaluateReversePolishNotation.java) |
+| 153. Find Minimum in Rotated Sorted Array | Find the minimum element in a rotated sorted array of distinct integers | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [FindMinimumInRotatedSortedArray.java](153-find-minimum-in-rotated-sorted-array/FindMinimumInRotatedSortedArray.java) |
 | 167. Two Sum II - Input Array is Sorted | Find two numbers in a sorted array that add up to a target sum | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TwoSumSortedInputArray.java](167-two-sum-sorted-input-array/TwoSumSortedInputArray.java) |
 | 190. Reverse Bits | Reverse the bits of a 32-bit integer | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ReverseBits.java](190-reverse-bits/ReverseBits.java) |
 | 191. Number of 1 Bits | Count the number of 1 bits in the binary representation of an integer | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [NumberOf1Bits.java](191-number-of-1-bits/NumberOf1Bits.java) |
