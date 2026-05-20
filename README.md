@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 49**
+**Total Problems Solved: 50**
 
 ---
 
@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 703. Kth Largest Element in a Stream | Design a class to find the kth largest element in a stream of numbers | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [KthLargestElementInAStream.java](703-kth-largest-element-in-a-stream/KthLargestElementInAStream.java) |
 | 704. Binary Search | Find the index of a target value in a sorted array | [Binary Search](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](704-binary-search/BinarySearch.java) |
 | 739. Daily Temperatures | For each day, find how many days until a warmer temperature is observed | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [DailyTemperatures.java](739-daily-temperatures/DailyTemperatures.java) |
+| 853. Car Fleet | Determine how many car fleets arrive at the destination given starting positions and speeds | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [CarFleetOptimal.java](853-car-fleet/CarFleetOptimal.java) |
 | 875. Koko Eating Bananas | Find the minimum eating speed to eat all bananas within h hours | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [KokoEatingBananas.java](875-koko-eating-bananas/KokoEatingBananas.java) |
 | 1046. Last Stone Weight | Determine which stone remains after all collisions, smashing the heaviest stones together | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [LastStoneWeight.java](1046-last-stone-weight/LastStoneWeight.java) |
 | 1448. Count Good Nodes in Binary Tree | Count nodes where the node value is greater than or equal to all values on the path from root to that node | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [CountGoodNodesInBinaryTree.java](1448-count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.java) |
