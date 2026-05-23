@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 53**
+**Total Problems Solved: 54**
 
 ---
 
@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 125. Valid Palindrome | Check if a string is a valid palindrome after removing non-alphanumeric characters | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [ValidPalindrome.java](125-valid-palindrome/ValidPalindrome.java) (Brute Force)<br/>[ValidPalindromeTwoPointers.java](125-valid-palindrome/ValidPalindromeTwoPointers.java) (Optimal) |
 | 128. Longest Consecutive Sequence | Find the longest consecutive sequence in an unsorted array | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive/) | [LongestConsecutiveSequence.java](128-longest-consecutive-sequence/LongestConsecutiveSequence.java) |
 | 136. Single Number | Find the single number that appears once in an array where all other numbers appear twice | [Single Number](https://leetcode.com/problems/single-number/) | [SingleNumber.java](136-single-number/SingleNumber.java) |
+| 138. Copy List with Random Pointer | Create a deep copy of a linked list where each node has a next pointer and a random pointer | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [CopyListWithRandomPointer.java](138-copy-list-with-random-pointer/CopyListWithRandomPointer.java) |
 | 141. Linked List Cycle | Determine if a linked list has a cycle in it | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [LinkedListCycle.java](141-linked-list-cycle/LinkedListCycle.java) |
 | 143. Reorder List | Reorder a singly linked list such that it follows the pattern: L0 → Ln → L1 → Ln-1 → ... | [Reorder List](https://leetcode.com/problems/reorder-list/) | [ReorderList.java](143-reorder-list/ReorderList.java) |
 | 150. Evaluate Reverse Polish Notation | Evaluate an expression written in Reverse Polish Notation | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [EvaluateReversePolishNotation.java](150-evaluate-reverse-polish-notation/EvaluateReversePolishNotation.java) |
