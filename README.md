@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 51**
+**Total Problems Solved: 52**
 
 ---
 
@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 19. Remove Nth Node From End of List | Remove the nth node from the end of a linked list | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [RemoveNthNodeFromEndOfList.java](19-remove-nth-node-from-end-of-list/RemoveNthNodeFromEndOfList.java) |
 | 20. Valid Parentheses | Check if parentheses are valid | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [ValidParenthesis.java](20-valid-parenthesis/ValidParenthesis.java) |
 | 21. Merge Two Sorted Lists | Merge two sorted singly linked lists into a single sorted linked list | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.java](21-merge-two-sorted-lists/MergeTwoSortedLists.java) (Optimal)<br/>[MergeTwoSortedListsRecursive.java](21-merge-two-sorted-lists/MergeTwoSortedListsRecursive.java) (Recursive) |
+| 33. Search in Rotated Sorted Array | Find the index of a target value in a rotated sorted array | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [SearchInRotatedSortedArray.java](33-search-in-rotated-sorted-array/SearchInRotatedSortedArray.java) |
 | 42. Trapping Rain Water | Calculate how much rainwater can be trapped between elevations after rainfall | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWaterPrefixSum.java](42-trapping-rain-water/TrappingRainWaterPrefixSum.java) |
 | 49. Group Anagrams | Group anagrams together from a list of strings | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [GroupAnagrams.java](49-group-anagrams/GroupAnagrams.java) |
 | 55. Jump Game | Determine if you can reach the last index of an array by jumping | [Jump Game](https://leetcode.com/problems/jump-game/) | [JumpGameDP.java](55-jump-game/JumpGameDP.java) (Brute Force)<br/>[JumpGameGreedy.java](55-jump-game/JumpGameGreedy.java) (Optimal) |
