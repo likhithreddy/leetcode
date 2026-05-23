@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 54**
+**Total Problems Solved: 55**
 
 ---
 
@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | Problem | Description | LeetCode Link | Submission |
 |---------|-------------|---------------|-----------|
 | 1. Two Sum | Find two numbers that add up to a target sum | [Two Sum](https://leetcode.com/problems/two-sum/) | [TwoSum.java](1-two-sum/TwoSum.java) |
+| 2. Add Two Numbers | Add two non-negative integers represented as linked lists in reverse order | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [AddTwoNumbers.java](2-add-two-numbers/AddTwoNumbers.java) |
 | 3. Longest Substring Without Repeating Characters | Find the length of the longest substring without repeating characters | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [LongestSubstringWithoutRepeatingCharactersMap.java](3-longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharactersMap.java) (Optimal)<br/>[LongestSubstringWithoutRepeatingCharactersSet.java](3-longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharactersSet.java) (Brute Force) |
 | 11. Container With Most Water | Find two lines that together with x-axis form a container that can hold the most water | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ContainerWithMostWater.java](11-container-with-most-water/ContainerWithMostWater.java) |
 | 15. 3Sum | Find all unique triplets in an array that sum to zero | [3Sum](https://leetcode.com/problems/3sum/) | [3Sum.java](15-3sum/3Sum.java) |
