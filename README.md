@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 58**
+**Total Problems Solved: 59**
 
 ---
 
@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 167. Two Sum II - Input Array is Sorted | Find two numbers in a sorted array that add up to a target sum | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TwoSumSortedInputArray.java](167-two-sum-sorted-input-array/TwoSumSortedInputArray.java) |
 | 190. Reverse Bits | Reverse the bits of a 32-bit integer | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ReverseBits.java](190-reverse-bits/ReverseBits.java) |
 | 191. Number of 1 Bits | Count the number of 1 bits in the binary representation of an integer | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [NumberOf1Bits.java](191-number-of-1-bits/NumberOf1Bits.java) |
+| 198. House Robber | Find the maximum money you can rob from houses in a line without robbing two adjacent houses | [House Robber](https://leetcode.com/problems/house-robber/) | [HouseRobber.java](198-house-robber/HouseRobber.java) |
 | 206. Reverse Linked List | Reverse a singly linked list | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ReverseLinkedList.java](206-reverse-linked-list/ReverseLinkedList.java) |
 | 215. Kth Largest Element in an Array | Find the kth largest element in an unsorted array | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [kthLargestElementInAnArrayMinHeap.java](215-kth-largest-element-in-an-array/kthLargestElementInAnArrayMinHeap.java) |
 | 217. Contains Duplicate | Find if an array contains any duplicate values | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ContainsDuplicate.java](217-contains-duplicate/ContainsDuplicate.java) |
