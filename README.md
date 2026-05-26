@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 56**
+**Total Problems Solved: 57**
 
 ---
 
@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 42. Trapping Rain Water | Calculate how much rainwater can be trapped between elevations after rainfall | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWaterPrefixSum.java](42-trapping-rain-water/TrappingRainWaterPrefixSum.java) |
 | 49. Group Anagrams | Group anagrams together from a list of strings | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [GroupAnagrams.java](49-group-anagrams/GroupAnagrams.java) |
 | 55. Jump Game | Determine if you can reach the last index of an array by jumping | [Jump Game](https://leetcode.com/problems/jump-game/) | [JumpGameDP.java](55-jump-game/JumpGameDP.java) (Brute Force)<br/>[JumpGameGreedy.java](55-jump-game/JumpGameGreedy.java) (Optimal) |
+| 70. Climbing Stairs | Find the number of distinct ways to climb n stairs when you can climb 1 or 2 stairs at a time | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [ClimbingStairs.java](70-climbing-stairs/ClimbingStairs.java) |
 | 74. Search a 2D Matrix | Find a target value in a sorted 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [searchA2dMatrix.java](74-search-a-2d-matrix/searchA2dMatrix.java) |
 | 76. Minimum Window Substring | Find the minimum window substring that contains all characters from t | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [MinimumWindowSubstring.java](76-minimum-window-substring/MinimumWindowSubstring) |
 | 98. Validate Binary Search Tree | Determine if a binary tree is a valid BST | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ValidateBinarySearchTree.java](98-validate-binary-search-tree/ValidateBinarySearchTree.java) |
