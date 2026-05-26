@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 57**
+**Total Problems Solved: 58**
 
 ---
 
@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 703. Kth Largest Element in a Stream | Design a class to find the kth largest element in a stream of numbers | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [KthLargestElementInAStream.java](703-kth-largest-element-in-a-stream/KthLargestElementInAStream.java) |
 | 704. Binary Search | Find the index of a target value in a sorted array | [Binary Search](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](704-binary-search/BinarySearch.java) |
 | 739. Daily Temperatures | For each day, find how many days until a warmer temperature is observed | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [DailyTemperatures.java](739-daily-temperatures/DailyTemperatures.java) |
+| 746. Min Cost Climbing Stairs | Find the minimum cost to reach the top of a staircase where you can climb 1 or 2 steps at a time | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [MinCostClimbingStairsSpaceOptimized.java](746-min-cost-climbing-stairs/MinCostClimbingStairsSpaceOptimized.java) |
 | 853. Car Fleet | Determine how many car fleets arrive at the destination given starting positions and speeds | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [CarFleetOptimal.java](853-car-fleet/CarFleetOptimal.java) |
 | 875. Koko Eating Bananas | Find the minimum eating speed to eat all bananas within h hours | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [KokoEatingBananas.java](875-koko-eating-bananas/KokoEatingBananas.java) |
 | 973. K Closest Points to Origin | Find k points in 2D space that are closest to the origin | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [KClosestPointsToOriginMaxHeap.java](973-k-closest-points-to-origin/KClosestPointsToOriginMaxHeap.java) |
