@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 60**
+**Total Problems Solved: 61**
 
 ---
 
@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 70. Climbing Stairs | Find the number of distinct ways to climb n stairs when you can climb 1 or 2 stairs at a time | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [ClimbingStairs.java](70-climbing-stairs/ClimbingStairs.java) |
 | 74. Search a 2D Matrix | Find a target value in a sorted 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [searchA2dMatrix.java](74-search-a-2d-matrix/searchA2dMatrix.java) |
 | 76. Minimum Window Substring | Find the minimum window substring that contains all characters from t | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [MinimumWindowSubstring.java](76-minimum-window-substring/MinimumWindowSubstring) |
+| 91. Decode Ways | Count the number of distinct ways to decode a digit string into letters using A=1...Z=26 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [DecodeWays.java](91-decode-ways/DecodeWays.java) |
 | 98. Validate Binary Search Tree | Determine if a binary tree is a valid BST | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ValidateBinarySearchTree.java](98-validate-binary-search-tree/ValidateBinarySearchTree.java) |
 | 100. Same Tree | Determine if two binary trees are the same | [Same Tree](https://leetcode.com/problems/same-tree/) | [SameTree.java](100-same-tree/SameTree.java) |
 | 102. Binary Tree Level Order Traversal | Perform a level order traversal of a binary tree | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [BinaryTreeLevelOrderTraversal.java](102-binary-tree-level-order-traversal/BinaryTreeLevelOrderTraversal.java) |
