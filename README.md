@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 61**
+**Total Problems Solved: 62**
 
 ---
 
@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 238. Product of Array Except Self | Calculate the product of all elements except the element at each index | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ProductOfArrayExceptSelf.java](238-product-of-array-except-self/ProductOfArrayExceptSelf.java) |
 | 242. Valid Anagram | Determine if two strings are anagrams of each other | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [ValidAnagramHashMap.java](242-valid-anagram/ValidAnagramHashMap.java) (Brute Force)<br/>[ValidAnagramAlphabetArray.java](242-valid-anagram/ValidAnagramAlphabetArray.java) (Optimal) |
 | 271. Encode and Decode Strings | Encode a list of strings into a single string and decode it back | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [EncodeAndDecodeStrings.java](271-encode-and-decode-strings/EncodeAndDecodeStrings.java) |
+| 322. Coin Change | Find the fewest number of coins needed to make up a given amount, or return -1 if impossible | [Coin Change](https://leetcode.com/problems/coin-change/) | [CoinChange.java](322-coin-change/CoinChange.java) |
 | 338. Counting Bits | Given an integer n, compute the number of 1 bits in the binary representation of each number from 0 to n | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [CountingBits.java](338-counting-bits/CountingBits.java) |
 | 347. Top K Frequent Elements | Find the k most frequent elements in an array | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TopKFrequentElements.java](347-top-k-frequent-elements/TopKFrequentElements.java) |
 | 424. Longest Repeating Character Replacement | Find the longest substring after replacing at most k characters to make all characters the same | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [LongestRepeatingCharacterReplacement.java](424-longest-repeating-character-replacement/LongestRepeatingCharacterReplacement.java) |
