@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 63**
+**Total Problems Solved: 64**
 
 ---
 
@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 21. Merge Two Sorted Lists | Merge two sorted singly linked lists into a single sorted linked list | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.java](21-merge-two-sorted-lists/MergeTwoSortedLists.java) (Optimal)<br/>[MergeTwoSortedListsRecursive.java](21-merge-two-sorted-lists/MergeTwoSortedListsRecursive.java) (Recursive) |
 | 33. Search in Rotated Sorted Array | Find the index of a target value in a rotated sorted array | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [SearchInRotatedSortedArray.java](33-search-in-rotated-sorted-array/SearchInRotatedSortedArray.java) |
 | 42. Trapping Rain Water | Calculate how much rainwater can be trapped between elevations after rainfall | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWaterPrefixSum.java](42-trapping-rain-water/TrappingRainWaterPrefixSum.java) |
+| 48. Rotate Image | Rotate an n x n 2D matrix by 90 degrees clockwise in place | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [RotateImage.java](48-rotate-image/RotateImage.java) |
 | 49. Group Anagrams | Group anagrams together from a list of strings | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [GroupAnagrams.java](49-group-anagrams/GroupAnagrams.java) |
 | 55. Jump Game | Determine if you can reach the last index of an array by jumping | [Jump Game](https://leetcode.com/problems/jump-game/) | [JumpGameDP.java](55-jump-game/JumpGameDP.java) (Brute Force)<br/>[JumpGameGreedy.java](55-jump-game/JumpGameGreedy.java) (Optimal) |
 | 70. Climbing Stairs | Find the number of distinct ways to climb n stairs when you can climb 1 or 2 stairs at a time | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [ClimbingStairs.java](70-climbing-stairs/ClimbingStairs.java) |
