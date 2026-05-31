@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 64**
+**Total Problems Solved: 65**
 
 ---
 
@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 190. Reverse Bits | Reverse the bits of a 32-bit integer | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ReverseBits.java](190-reverse-bits/ReverseBits.java) |
 | 191. Number of 1 Bits | Count the number of 1 bits in the binary representation of an integer | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [NumberOf1Bits.java](191-number-of-1-bits/NumberOf1Bits.java) |
 | 198. House Robber | Find the maximum money you can rob from houses in a line without robbing two adjacent houses | [House Robber](https://leetcode.com/problems/house-robber/) | [HouseRobber.java](198-house-robber/HouseRobber.java) |
+| 202. Happy Number | Determine if repeatedly summing the squares of a number's digits eventually reaches 1 | [Happy Number](https://leetcode.com/problems/happy-number/) | [HappyNumber.java](202-happy-number/HappyNumber.java) |
 | 206. Reverse Linked List | Reverse a singly linked list | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ReverseLinkedList.java](206-reverse-linked-list/ReverseLinkedList.java) |
 | 213. House Robber II | Find the maximum money you can rob from houses arranged in a circle without robbing two adjacent houses | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [HouseRobberII.java](213-house-robber-ii/HouseRobberII.java) |
 | 215. Kth Largest Element in an Array | Find the kth largest element in an unsorted array | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [kthLargestElementInAnArrayMinHeap.java](215-kth-largest-element-in-an-array/kthLargestElementInAnArrayMinHeap.java) |
