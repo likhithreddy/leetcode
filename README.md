@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 65**
+**Total Problems Solved: 66**
 
 ---
 
@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 338. Counting Bits | Given an integer n, compute the number of 1 bits in the binary representation of each number from 0 to n | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [CountingBits.java](338-counting-bits/CountingBits.java) |
 | 347. Top K Frequent Elements | Find the k most frequent elements in an array | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TopKFrequentElements.java](347-top-k-frequent-elements/TopKFrequentElements.java) |
 | 424. Longest Repeating Character Replacement | Find the longest substring after replacing at most k characters to make all characters the same | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [LongestRepeatingCharacterReplacement.java](424-longest-repeating-character-replacement/LongestRepeatingCharacterReplacement.java) |
+| 463. Island Perimeter | Calculate the perimeter of an island in a grid | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [IslandPerimeter.java](463-island-perimeter/IslandPerimeter.java) |
 | 496. Next Greater Element I | Find the next greater element for each element in nums1 within nums2 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [NextGreaterElementOne.java](496-next-greater-element-i/NextGreaterElementOne.java) |
 | 543. Diameter of Binary Tree | Find the length of the diameter of a binary tree (longest path between any two nodes) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [DiameterOfBinaryTree.java](543-diameter-of-binary-tree/DiameterOfBinaryTree.java) |
 | 567. Permutation in String | Determine if a permutation of one string exists as a substring in another string | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [PermutationInString.java](567-permutation-in-string/PermutationInString.java) |
