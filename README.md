@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 69**
+**Total Problems Solved: 70**
 
 ---
 
@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 746. Min Cost Climbing Stairs | Find the minimum cost to reach the top of a staircase where you can climb 1 or 2 steps at a time | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [MinCostClimbingStairsSpaceOptimized.java](746-min-cost-climbing-stairs/MinCostClimbingStairsSpaceOptimized.java) |
 | 853. Car Fleet | Determine how many car fleets arrive at the destination given starting positions and speeds | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [CarFleetOptimal.java](853-car-fleet/CarFleetOptimal.java) |
 | 875. Koko Eating Bananas | Find the minimum eating speed to eat all bananas within h hours | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [KokoEatingBananas.java](875-koko-eating-bananas/KokoEatingBananas.java) |
+| 953. Verifying an Alien Dictionary | Verify if words are sorted according to an alien dictionary order | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [VerifyingAnAlienDictionary.java](953-verifying-an-alien-dictionary/VerifyingAnAlienDictionary.java) |
 | 973. K Closest Points to Origin | Find k points in 2D space that are closest to the origin | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [KClosestPointsToOriginMaxHeap.java](973-k-closest-points-to-origin/KClosestPointsToOriginMaxHeap.java) |
 | 981. Time Based Key-Value Store | Design a time-based key-value data structure that retrieves the value for a key at a given timestamp | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TimeBasedKeyValueStore.java](981-time-based-key-value-store/TimeBasedKeyValueStore.java) |
 | 997. Find the Town Judge | Find the town judge who is trusted by everyone but trusts no one | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [FindTheTownJudge.java](997-find-the-town-judge/FindTheTownJudge.java) (Brute Force)<br/>[FindTheTownJudgeOptimal.java](997-find-the-town-judge/FindTheTownJudgeOptimal.java) (Optimal) |
