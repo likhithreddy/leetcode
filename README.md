@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 70**
+**Total Problems Solved: 71**
 
 ---
 
@@ -74,6 +74,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 567. Permutation in String | Determine if a permutation of one string exists as a substring in another string | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [PermutationInString.java](567-permutation-in-string/PermutationInString.java) |
 | 572. Subtree of Another Tree | Determine if a tree is a subtree of another tree | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [SubtreeOfAnotherTree.java](572-subtree-of-another-tree/SubtreeOfAnotherTree.java) |
 | 621. Task Scheduler | Find the least number of time units to finish all tasks with a cooldown between identical tasks | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [TaskScheduler.java](621-task-scheduler/TaskScheduler.java) (Brute Force)<br/>[TaskSchedulerOptimal.java](621-task-scheduler/TaskSchedulerOptimal.java) (Optimal) |
+| 695. Max Area of Island | Find the maximum area of an island in a 2D grid of land and water | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [MaxAreaOfIsland.java](695-max-area-of-island/MaxAreaOfIsland.java) |
 | 703. Kth Largest Element in a Stream | Design a class to find the kth largest element in a stream of numbers | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [KthLargestElementInAStream.java](703-kth-largest-element-in-a-stream/KthLargestElementInAStream.java) |
 | 704. Binary Search | Find the index of a target value in a sorted array | [Binary Search](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](704-binary-search/BinarySearch.java) |
 | 739. Daily Temperatures | For each day, find how many days until a warmer temperature is observed | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [DailyTemperatures.java](739-daily-temperatures/DailyTemperatures.java) |
