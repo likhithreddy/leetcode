@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 66**
+**Total Problems Solved: 67**
 
 ---
 
@@ -80,5 +80,6 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 875. Koko Eating Bananas | Find the minimum eating speed to eat all bananas within h hours | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [KokoEatingBananas.java](875-koko-eating-bananas/KokoEatingBananas.java) |
 | 973. K Closest Points to Origin | Find k points in 2D space that are closest to the origin | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [KClosestPointsToOriginMaxHeap.java](973-k-closest-points-to-origin/KClosestPointsToOriginMaxHeap.java) |
 | 981. Time Based Key-Value Store | Design a time-based key-value data structure that retrieves the value for a key at a given timestamp | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TimeBasedKeyValueStore.java](981-time-based-key-value-store/TimeBasedKeyValueStore.java) |
+| 997. Find the Town Judge | Find the town judge who is trusted by everyone but trusts no one | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [FindTheTownJudge.java](997-find-the-town-judge/FindTheTownJudge.java) (Brute Force)<br/>[FindTheTownJudgeOptimal.java](997-find-the-town-judge/FindTheTownJudgeOptimal.java) (Optimal) |
 | 1046. Last Stone Weight | Determine which stone remains after all collisions, smashing the heaviest stones together | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [LastStoneWeight.java](1046-last-stone-weight/LastStoneWeight.java) |
 | 1448. Count Good Nodes in Binary Tree | Count nodes where the node value is greater than or equal to all values on the path from root to that node | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [CountGoodNodesInBinaryTree.java](1448-count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.java) |
