@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 73**
+**Total Problems Solved: 74**
 
 ---
 
@@ -83,6 +83,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 746. Min Cost Climbing Stairs | Find the minimum cost to reach the top of a staircase where you can climb 1 or 2 steps at a time | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [MinCostClimbingStairsSpaceOptimized.java](746-min-cost-climbing-stairs/MinCostClimbingStairsSpaceOptimized.java) |
 | 853. Car Fleet | Determine how many car fleets arrive at the destination given starting positions and speeds | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [CarFleetOptimal.java](853-car-fleet/CarFleetOptimal.java) |
 | 875. Koko Eating Bananas | Find the minimum eating speed to eat all bananas within h hours | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [KokoEatingBananas.java](875-koko-eating-bananas/KokoEatingBananas.java) |
+| 881. Boats to Save People | Find the minimum number of boats needed to save all people given a weight limit per boat | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [BoatsToSavePeople.java](881-boats-to-save-people/BoatsToSavePeople.java) (Optimal) |
 | 953. Verifying an Alien Dictionary | Verify if words are sorted according to an alien dictionary order | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [VerifyingAnAlienDictionary.java](953-verifying-an-alien-dictionary/VerifyingAnAlienDictionary.java) |
 | 973. K Closest Points to Origin | Find k points in 2D space that are closest to the origin | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [KClosestPointsToOriginMaxHeap.java](973-k-closest-points-to-origin/KClosestPointsToOriginMaxHeap.java) |
 | 981. Time Based Key-Value Store | Design a time-based key-value data structure that retrieves the value for a key at a given timestamp | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TimeBasedKeyValueStore.java](981-time-based-key-value-store/TimeBasedKeyValueStore.java) |
