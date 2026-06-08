@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 76**
+**Total Problems Solved: 77**
 
 ---
 
@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 155. Min Stack | Design a stack that supports push, pop, top, and retrieving the minimum element in constant time | [Min Stack](https://leetcode.com/problems/min-stack/) | [MinStackOptimal.java](155-min-stack/MinStackOptimal.java) |
 | 167. Two Sum II - Input Array is Sorted | Find two numbers in a sorted array that add up to a target sum | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TwoSumSortedInputArray.java](167-two-sum-sorted-input-array/TwoSumSortedInputArray.java) |
 | 168. Excel Sheet Column Title | Convert a column number to its corresponding Excel column title | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [ExcelSheetColumnTitle.java](168-excel-sheet-column-title/ExcelSheetColumnTitle.java) |
+| 169. Majority Element | Find the element that appears more than ⌊n/2⌋ times in an unsorted array | [Majority Element](https://leetcode.com/problems/majority-element/) | [MajorityElement.java](169-majority-element/MajorityElement.java) (Brute Force)<br/>[MajorityElementOptimal.java](169-majority-element/MajorityElementOptimal.java) (Optimal)<br/>[MajorityElementSorting.java](169-majority-element/MajorityElementSorting.java) (Sorting) |
 | 190. Reverse Bits | Reverse the bits of a 32-bit integer | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ReverseBits.java](190-reverse-bits/ReverseBits.java) |
 | 191. Number of 1 Bits | Count the number of 1 bits in the binary representation of an integer | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [NumberOf1Bits.java](191-number-of-1-bits/NumberOf1Bits.java) |
 | 198. House Robber | Find the maximum money you can rob from houses in a line without robbing two adjacent houses | [House Robber](https://leetcode.com/problems/house-robber/) | [HouseRobber.java](198-house-robber/HouseRobber.java) |
