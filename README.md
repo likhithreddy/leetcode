@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 78**
+**Total Problems Solved: 79**
 
 ---
 
@@ -63,6 +63,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 213. House Robber II | Find the maximum money you can rob from houses arranged in a circle without robbing two adjacent houses | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [HouseRobberII.java](213-house-robber-ii/HouseRobberII.java) |
 | 215. Kth Largest Element in an Array | Find the kth largest element in an unsorted array | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [kthLargestElementInAnArrayMinHeap.java](215-kth-largest-element-in-an-array/kthLargestElementInAnArrayMinHeap.java) |
 | 217. Contains Duplicate | Find if an array contains any duplicate values | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ContainsDuplicate.java](217-contains-duplicate/ContainsDuplicate.java) |
+| 219. Contains Duplicate II | Find if there are two distinct indices i and j such that nums[i] == nums[j] and abs(i - j) <= k | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [ContainsDuplicateII.java](219-contains-duplicate-ii/ContainsDuplicateII.java) (Optimal) |
 | 226. Invert Binary Tree | Invert a binary tree by swapping the left and right children of all nodes | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [InvertBinaryTree.java](226-invert-binary-tree/InvertBinaryTree.java) |
 | 230. Kth Smallest Element in a BST | Find the kth smallest value in a binary search tree | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [kthSmallestElementInABST.java](230-kth-smallest-element-in-a-bst/kthSmallestElementInABST.java) |
 | 238. Product of Array Except Self | Calculate the product of all elements except the element at each index | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ProductOfArrayExceptSelf.java](238-product-of-array-except-self/ProductOfArrayExceptSelf.java) |
