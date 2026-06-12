@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 79**
+**Total Problems Solved: 80**
 
 ---
 
@@ -88,6 +88,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 860. Lemonade Change | At a lemonade stand, each customer buys a lemonade for $5. You must give the correct change and determine if it's possible to serve all customers without running out of bills | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [LemonadeChange.java](860-lemonade-change/LemonadeChange.java) |
 | 875. Koko Eating Bananas | Find the minimum eating speed to eat all bananas within h hours | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [KokoEatingBananas.java](875-koko-eating-bananas/KokoEatingBananas.java) |
 | 881. Boats to Save People | Find the minimum number of boats needed to save all people given a weight limit per boat | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [BoatsToSavePeople.java](881-boats-to-save-people/BoatsToSavePeople.java) (Optimal) |
+| 912. Sort an Array | Sort an array of integers in ascending order | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [HeapSort.java](912-sort-an-array/HeapSort.java) |
 | 953. Verifying an Alien Dictionary | Verify if words are sorted according to an alien dictionary order | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [VerifyingAnAlienDictionary.java](953-verifying-an-alien-dictionary/VerifyingAnAlienDictionary.java) |
 | 973. K Closest Points to Origin | Find k points in 2D space that are closest to the origin | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [KClosestPointsToOriginMaxHeap.java](973-k-closest-points-to-origin/KClosestPointsToOriginMaxHeap.java) |
 | 981. Time Based Key-Value Store | Design a time-based key-value data structure that retrieves the value for a key at a given timestamp | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TimeBasedKeyValueStore.java](981-time-based-key-value-store/TimeBasedKeyValueStore.java) |
