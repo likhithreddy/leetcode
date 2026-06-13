@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 83**
+**Total Problems Solved: 84**
 
 ---
 
@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 21. Merge Two Sorted Lists | Merge two sorted singly linked lists into a single sorted linked list | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.java](21-merge-two-sorted-lists/MergeTwoSortedLists.java) (Optimal)<br/>[MergeTwoSortedListsRecursive.java](21-merge-two-sorted-lists/MergeTwoSortedListsRecursive.java) (Recursive) |
 | 27. Remove Element | Remove all occurrences of a value from an array in-place and return the count of remaining elements | [Remove Element](https://leetcode.com/problems/remove-element/) | [RemoveElement.java](27-remove-element/RemoveElement.java) |
 | 33. Search in Rotated Sorted Array | Find the index of a target value in a rotated sorted array | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [SearchInRotatedSortedArray.java](33-search-in-rotated-sorted-array/SearchInRotatedSortedArray.java) |
+| 41. First Missing Positive | Find the smallest missing positive integer in O(n) time and O(1) space | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [FirstMissingPositive.java](41-first-missing-positive/FirstMissingPositive.java) (Optimal) |
 | 42. Trapping Rain Water | Calculate how much rainwater can be trapped between elevations after rainfall | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWaterPrefixSum.java](42-trapping-rain-water/TrappingRainWaterPrefixSum.java) |
 | 48. Rotate Image | Rotate an n x n 2D matrix by 90 degrees clockwise in place | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [RotateImage.java](48-rotate-image/RotateImage.java) |
 | 49. Group Anagrams | Group anagrams together from a list of strings | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [GroupAnagrams.java](49-group-anagrams/GroupAnagrams.java) |
