@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 80**
+**Total Problems Solved: 81**
 
 ---
 
@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 104. Maximum Depth of Binary Tree | Find the maximum depth of a binary tree | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [MaximumDepthOfBinaryTree.java](104-maximum-depth-of-binary-tree/MaximumDepthOfBinaryTree.java) |
 | 110. Balanced Binary Tree | Determine if a binary tree is height-balanced | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [BalancedBinaryTree.java](110-balanced-binary-tree/BalancedBinaryTree.java) (Brute Force)<br/>[BalancedBinaryTreeDP.java](110-balanced-binary-tree/BalancedBinaryTreeDP.java) (Optimal) |
 | 121. Best Time to Buy and Sell Stock | Find the maximum profit from buying and selling a stock once | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [BestTimeToBuyAndSellStock.java](121-best-time-to-buy-and-sell-stock/BestTimeToBuyAndSellStock.java) |
+| 122. Best Time to Buy and Sell Stock II | Find the maximum profit by buying and selling a stock multiple times | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [BestTimeToBuyAndSellStockII.java](122-best-time-to-buy-and-sell-stock-ii/BestTimeToBuyAndSellStockII.java) (Optimal) |
 | 125. Valid Palindrome | Check if a string is a valid palindrome after removing non-alphanumeric characters | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [ValidPalindrome.java](125-valid-palindrome/ValidPalindrome.java) (Brute Force)<br/>[ValidPalindromeTwoPointers.java](125-valid-palindrome/ValidPalindromeTwoPointers.java) (Optimal) |
 | 128. Longest Consecutive Sequence | Find the longest consecutive sequence in an unsorted array | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive/) | [LongestConsecutiveSequence.java](128-longest-consecutive-sequence/LongestConsecutiveSequence.java) |
 | 133. Clone Graph | Create a deep copy (clone) of a connected undirected graph | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [CloneGraph.java](133-clone-graph/CloneGraph.java) |
