@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 84**
+**Total Problems Solved: 85**
 
 ---
 
@@ -83,6 +83,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 572. Subtree of Another Tree | Determine if a tree is a subtree of another tree | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [SubtreeOfAnotherTree.java](572-subtree-of-another-tree/SubtreeOfAnotherTree.java) |
 | 621. Task Scheduler | Find the least number of time units to finish all tasks with a cooldown between identical tasks | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [TaskScheduler.java](621-task-scheduler/TaskScheduler.java) (Brute Force)<br/>[TaskSchedulerOptimal.java](621-task-scheduler/TaskSchedulerOptimal.java) (Optimal) |
 | 695. Max Area of Island | Find the maximum area of an island in a 2D grid of land and water | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [MaxAreaOfIsland.java](695-max-area-of-island/MaxAreaOfIsland.java) |
+| 682. Baseball Game | Simulate a baseball game with scores, doubling, and cancellation operations | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [BaseballGameArray.java](682-baseball-game/BaseballGameArray.java) (Brute Force)<br/>[BaseballGameStack.java](682-baseball-game/BaseballGameStack.java) (Optimal) |
 | 701. Insert into a Binary Search Tree | Add a new node with a given value to a binary search tree in the correct position | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [InsertIintoABinarySearchTree.java](701-insert-into-a-binary-search-tree/InsertIintoABinarySearchTree.java) (Optimal) |
 | 703. Kth Largest Element in a Stream | Design a class to find the kth largest element in a stream of numbers | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [KthLargestElementInAStream.java](703-kth-largest-element-in-a-stream/KthLargestElementInAStream.java) |
 | 704. Binary Search | Find the index of a target value in a sorted array | [Binary Search](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](704-binary-search/BinarySearch.java) |
