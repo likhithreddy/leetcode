@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 86**
+**Total Problems Solved: 87**
 
 ---
 
@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 138. Copy List with Random Pointer | Create a deep copy of a linked list where each node has a next pointer and a random pointer | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [CopyListWithRandomPointer.java](138-copy-list-with-random-pointer/CopyListWithRandomPointer.java) |
 | 141. Linked List Cycle | Determine if a linked list has a cycle in it | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [LinkedListCycle.java](141-linked-list-cycle/LinkedListCycle.java) |
 | 143. Reorder List | Reorder a singly linked list such that it follows the pattern: L0 → Ln → L1 → Ln-1 → ... | [Reorder List](https://leetcode.com/problems/reorder-list/) | [ReorderList.java](143-reorder-list/ReorderList.java) |
+| 144. Binary Tree Preorder Traversal | Perform a preorder traversal of a binary tree and return the values of all nodes in the traversal order | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [BinaryTreePreorderTraversal.java](144-binary-tree-preorder-traversal/BinaryTreePreorderTraversal.java) |
 | 150. Evaluate Reverse Polish Notation | Evaluate an expression written in Reverse Polish Notation | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [EvaluateReversePolishNotation.java](150-evaluate-reverse-polish-notation/EvaluateReversePolishNotation.java) |
 | 153. Find Minimum in Rotated Sorted Array | Find the minimum element in a rotated sorted array of distinct integers | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [FindMinimumInRotatedSortedArray.java](153-find-minimum-in-rotated-sorted-array/FindMinimumInRotatedSortedArray.java) |
 | 155. Min Stack | Design a stack that supports push, pop, top, and retrieving the minimum element in constant time | [Min Stack](https://leetcode.com/problems/min-stack/) | [MinStackOptimal.java](155-min-stack/MinStackOptimal.java) |
