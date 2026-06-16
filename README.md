@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 92**
+**Total Problems Solved: 93**
 
 ---
 
@@ -92,6 +92,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 701. Insert into a Binary Search Tree | Add a new node with a given value to a binary search tree in the correct position | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [InsertIintoABinarySearchTree.java](701-insert-into-a-binary-search-tree/InsertIintoABinarySearchTree.java) (Optimal) |
 | 703. Kth Largest Element in a Stream | Design a class to find the kth largest element in a stream of numbers | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [KthLargestElementInAStream.java](703-kth-largest-element-in-a-stream/KthLargestElementInAStream.java) |
 | 704. Binary Search | Find the index of a target value in a sorted array | [Binary Search](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](704-binary-search/BinarySearch.java) |
+| 735. Asteroid Collision | Simulate asteroids moving along a row and return the survivors after all collisions resolve | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [AsteroidCollision.java](735-asteroid-collision/AsteroidCollision.java) |
 | 739. Daily Temperatures | For each day, find how many days until a warmer temperature is observed | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [DailyTemperatures.java](739-daily-temperatures/DailyTemperatures.java) |
 | 746. Min Cost Climbing Stairs | Find the minimum cost to reach the top of a staircase where you can climb 1 or 2 steps at a time | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [MinCostClimbingStairsSpaceOptimized.java](746-min-cost-climbing-stairs/MinCostClimbingStairsSpaceOptimized.java) |
 | 853. Car Fleet | Determine how many car fleets arrive at the destination given starting positions and speeds | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [CarFleetOptimal.java](853-car-fleet/CarFleetOptimal.java) |
