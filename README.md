@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 93**
+**Total Problems Solved: 94**
 
 ---
 
@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 219. Contains Duplicate II | Find if there are two distinct indices i and j such that nums[i] == nums[j] and abs(i - j) <= k | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [ContainsDuplicateII.java](219-contains-duplicate-ii/ContainsDuplicateII.java) (Optimal) |
 | 226. Invert Binary Tree | Invert a binary tree by swapping the left and right children of all nodes | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [InvertBinaryTree.java](226-invert-binary-tree/InvertBinaryTree.java) |
 | 230. Kth Smallest Element in a BST | Find the kth smallest value in a binary search tree | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [kthSmallestElementInABST.java](230-kth-smallest-element-in-a-bst/kthSmallestElementInABST.java) |
+| 232. Implement Queue using Stacks | Implement a FIFO queue (push, pop, peek, empty) using only two stacks | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [ImplementQueueUsingStacks.java](232-implement-queue-using-stacks/ImplementQueueUsingStacks.java) |
 | 235. Lowest Common Ancestor of a Binary Search Tree | Find the lowest common ancestor of two nodes in a binary search tree | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [LowestCommonAncestorOfABinarySearchTree.java](235-lowest-common-ancestor-of-a-binary-search-tree/LowestCommonAncestorOfABinarySearchTree.java) (Optimal) |
 | 238. Product of Array Except Self | Calculate the product of all elements except the element at each index | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ProductOfArrayExceptSelf.java](238-product-of-array-except-self/ProductOfArrayExceptSelf.java) |
 | 242. Valid Anagram | Determine if two strings are anagrams of each other | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [ValidAnagramHashMap.java](242-valid-anagram/ValidAnagramHashMap.java) (Brute Force)<br/>[ValidAnagramAlphabetArray.java](242-valid-anagram/ValidAnagramAlphabetArray.java) (Optimal) |
