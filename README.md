@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 95**
+**Total Problems Solved: 96**
 
 ---
 
@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 338. Counting Bits | Given an integer n, compute the number of 1 bits in the binary representation of each number from 0 to n | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [CountingBits.java](338-counting-bits/CountingBits.java) |
 | 344. Reverse String | Given a string represented as an array of characters, reverse the string in-place | [Reverse String](https://leetcode.com/problems/reverse-string/) | [ReverseString.java](344-reverse-string/ReverseString.java) |
 | 347. Top K Frequent Elements | Find the k most frequent elements in an array | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TopKFrequentElements.java](347-top-k-frequent-elements/TopKFrequentElements.java) |
+| 374. Guess Number Higher or Lower | Guess a hidden number in the range [1, n] using feedback about whether the guess is too high or too low | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [GuessNumberHigherOrLower.java](374-guess-number-higher-or-lower/GuessNumberHigherOrLower.java) |
 | 424. Longest Repeating Character Replacement | Find the longest substring after replacing at most k characters to make all characters the same | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [LongestRepeatingCharacterReplacement.java](424-longest-repeating-character-replacement/LongestRepeatingCharacterReplacement.java) |
 | 463. Island Perimeter | Calculate the perimeter of an island in a grid | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [IslandPerimeter.java](463-island-perimeter/IslandPerimeter.java) |
 | 496. Next Greater Element I | Find the next greater element for each element in nums1 within nums2 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [NextGreaterElementOne.java](496-next-greater-element-i/NextGreaterElementOne.java) |
