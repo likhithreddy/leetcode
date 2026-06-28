@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 98**
+**Total Problems Solved: 99**
 
 ---
 
@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 735. Asteroid Collision | Simulate asteroids moving along a row and return the survivors after all collisions resolve | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [AsteroidCollision.java](735-asteroid-collision/AsteroidCollision.java) |
 | 739. Daily Temperatures | For each day, find how many days until a warmer temperature is observed | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [DailyTemperatures.java](739-daily-temperatures/DailyTemperatures.java) |
 | 746. Min Cost Climbing Stairs | Find the minimum cost to reach the top of a staircase where you can climb 1 or 2 steps at a time | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [MinCostClimbingStairsSpaceOptimized.java](746-min-cost-climbing-stairs/MinCostClimbingStairsSpaceOptimized.java) |
+| 767. Reorganize String | Rearrange the characters of a string so that no two adjacent characters are the same | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [ReorganizeString.java](767-reorganize-string/ReorganizeString.java) |
 | 853. Car Fleet | Determine how many car fleets arrive at the destination given starting positions and speeds | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [CarFleetOptimal.java](853-car-fleet/CarFleetOptimal.java) |
 | 860. Lemonade Change | At a lemonade stand, each customer buys a lemonade for $5. You must give the correct change and determine if it's possible to serve all customers without running out of bills | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [LemonadeChange.java](860-lemonade-change/LemonadeChange.java) |
 | 875. Koko Eating Bananas | Find the minimum eating speed to eat all bananas within h hours | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [KokoEatingBananas.java](875-koko-eating-bananas/KokoEatingBananas.java) |
