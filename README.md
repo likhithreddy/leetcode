@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 96**
+**Total Problems Solved: 97**
 
 ---
 
@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 19. Remove Nth Node From End of List | Remove the nth node from the end of a linked list | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [RemoveNthNodeFromEndOfList.java](19-remove-nth-node-from-end-of-list/RemoveNthNodeFromEndOfList.java) |
 | 20. Valid Parentheses | Check if parentheses are valid | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [ValidParenthesis.java](20-valid-parenthesis/ValidParenthesis.java) |
 | 21. Merge Two Sorted Lists | Merge two sorted singly linked lists into a single sorted linked list | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.java](21-merge-two-sorted-lists/MergeTwoSortedLists.java) (Optimal)<br/>[MergeTwoSortedListsRecursive.java](21-merge-two-sorted-lists/MergeTwoSortedListsRecursive.java) (Recursive) |
+| 26. Remove Duplicates from Sorted Array | Remove duplicates from a sorted array in-place and return the new length | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-a-sorted-array/) | [RemoveDuplicatesFromSortedArray.java](26-remove-duplicates-from-sorted-array/RemoveDuplicatesFromSortedArray.java) |
 | 27. Remove Element | Remove all occurrences of a value from an array in-place and return the count of remaining elements | [Remove Element](https://leetcode.com/problems/remove-element/) | [RemoveElement.java](27-remove-element/RemoveElement.java) |
 | 33. Search in Rotated Sorted Array | Find the index of a target value in a rotated sorted array | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [SearchInRotatedSortedArray.java](33-search-in-rotated-sorted-array/SearchInRotatedSortedArray.java) |
 | 41. First Missing Positive | Find the smallest missing positive integer in O(n) time and O(1) space | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [FirstMissingPositive.java](41-first-missing-positive/FirstMissingPositive.java) (Optimal) |
@@ -91,6 +92,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 621. Task Scheduler | Find the least number of time units to finish all tasks with a cooldown between identical tasks | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [TaskScheduler.java](621-task-scheduler/TaskScheduler.java) (Brute Force)<br/>[TaskSchedulerOptimal.java](621-task-scheduler/TaskSchedulerOptimal.java) (Optimal) |
 | 680. Valid Palindrome II | Determine if a string is a valid palindrome considering at most one deletion of a character | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [ValidPalindromeII.java](680-valid-palindrome-ii/ValidPalindromeII.java) |
 | 682. Baseball Game | Simulate a baseball game with scores, doubling, and cancellation operations | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [BaseballGameArray.java](682-baseball-game/BaseballGameArray.java) (Brute Force)<br/>[BaseballGameStack.java](682-baseball-game/BaseballGameStack.java) (Optimal) |
+| 695. Max Area of Island | Find the maximum area of an island in a grid of water and land | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [MaxAreaOfIsland.java](695-max-area-of-island/MaxAreaOfIsland.java) |
 | 701. Insert into a Binary Search Tree | Add a new node with a given value to a binary search tree in the correct position | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [InsertIintoABinarySearchTree.java](701-insert-into-a-binary-search-tree/InsertIintoABinarySearchTree.java) (Optimal) |
 | 703. Kth Largest Element in a Stream | Design a class to find the kth largest element in a stream of numbers | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [KthLargestElementInAStream.java](703-kth-largest-element-in-a-stream/KthLargestElementInAStream.java) |
 | 704. Binary Search | Find the index of a target value in a sorted array | [Binary Search](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](704-binary-search/BinarySearch.java) |
