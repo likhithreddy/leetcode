@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 99**
+**Total Problems Solved: 100**
 
 ---
 
@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 71. Simplify Path | Convert an absolute Unix-style file path into its simplified canonical form | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [SimplifyPath.java](71-simplify-path/SimplifyPath.java) |
 | 74. Search a 2D Matrix | Find a target value in a sorted 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [searchA2dMatrix.java](74-search-a-2d-matrix/searchA2dMatrix.java) |
 | 76. Minimum Window Substring | Find the minimum window substring that contains all characters from t | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [MinimumWindowSubstring.java](76-minimum-window-substring/MinimumWindowSubstring) |
+| 88. Merge Sorted Array | Merge two sorted arrays into the first array in-place while maintaining sorted order | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [MergeSortedArray.java](88-merge-sorted-array/MergeSortedArray.java) |
 | 91. Decode Ways | Count the number of distinct ways to decode a digit string into letters using A=1...Z=26 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [DecodeWays.java](91-decode-ways/DecodeWays.java) |
 | 94. Binary Tree Inorder Traversal | Perform an inorder traversal of a binary tree and return the values of all nodes in the traversal order | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [BinaryTreeInorderTraversal.java](94-binary-tree-inorder-traversal/BinaryTreeInorderTraversal.java) |
 | 98. Validate Binary Search Tree | Determine if a binary tree is a valid BST | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ValidateBinarySearchTree.java](98-validate-binary-search-tree/ValidateBinarySearchTree.java) |
