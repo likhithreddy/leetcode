@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 100**
+**Total Problems Solved: 101**
 
 ---
 
@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 981. Time Based Key-Value Store | Design a time-based key-value data structure that retrieves the value for a key at a given timestamp | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TimeBasedKeyValueStore.java](981-time-based-key-value-store/TimeBasedKeyValueStore.java) |
 | 997. Find the Town Judge | Find the town judge who is trusted by everyone but trusts no one | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [FindTheTownJudge.java](997-find-the-town-judge/FindTheTownJudge.java) (Brute Force)<br/>[FindTheTownJudgeOptimal.java](997-find-the-town-judge/FindTheTownJudgeOptimal.java) (Optimal) |
 | 1046. Last Stone Weight | Determine which stone remains after all collisions, smashing the heaviest stones together | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [LastStoneWeight.java](1046-last-stone-weight/LastStoneWeight.java) |
+| 1137. N-th Tribonacci Number | Compute the nth value in the Tribonacci sequence, where each term is the sum of the previous three terms | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [nthTribonacciNumber.java](1137-n-th-tribonacci-number/nthTribonacciNumber.java) |
 | 1448. Count Good Nodes in Binary Tree | Count nodes where the node value is greater than or equal to all values on the path from root to that node | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [CountGoodNodesInBinaryTree.java](1448-count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.java) |
 | 1768. Merge Strings Alternately | Merge two strings by adding letters in alternating order, appending the remainder of the longer string | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [MergeStringsAlternately.java](1768-merge-strings-alternately/MergeStringsAlternately.java) |
 | 1929. Concatenation of Array | Concatenate an array with itself to create an array of double length | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ConcatenationOfArray.java](1929-concatenation-of-array/ConcatenationOfArray.java) |
