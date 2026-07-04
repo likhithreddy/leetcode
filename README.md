@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 101**
+**Total Problems Solved: 102**
 
 ---
 
@@ -116,4 +116,5 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 1137. N-th Tribonacci Number | Compute the nth value in the Tribonacci sequence, where each term is the sum of the previous three terms | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [nthTribonacciNumber.java](1137-n-th-tribonacci-number/nthTribonacciNumber.java) |
 | 1448. Count Good Nodes in Binary Tree | Count nodes where the node value is greater than or equal to all values on the path from root to that node | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [CountGoodNodesInBinaryTree.java](1448-count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.java) |
 | 1768. Merge Strings Alternately | Merge two strings by adding letters in alternating order, appending the remainder of the longer string | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [MergeStringsAlternately.java](1768-merge-strings-alternately/MergeStringsAlternately.java) |
+| 1834. Single-Threaded CPU | Schedule tasks on a single-threaded CPU by choosing the available task with the smallest processing time, breaking ties by original index | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [SingleThreadedCPU.java](1834-single-threaded-cpu/SingleThreadedCPU.java) |
 | 1929. Concatenation of Array | Concatenate an array with itself to create an array of double length | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ConcatenationOfArray.java](1929-concatenation-of-array/ConcatenationOfArray.java) |
