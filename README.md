@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 102**
+**Total Problems Solved: 103**
 
 ---
 
@@ -111,6 +111,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 953. Verifying an Alien Dictionary | Verify if words are sorted according to an alien dictionary order | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [VerifyingAnAlienDictionary.java](953-verifying-an-alien-dictionary/VerifyingAnAlienDictionary.java) |
 | 973. K Closest Points to Origin | Find k points in 2D space that are closest to the origin | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [KClosestPointsToOriginMaxHeap.java](973-k-closest-points-to-origin/KClosestPointsToOriginMaxHeap.java) |
 | 981. Time Based Key-Value Store | Design a time-based key-value data structure that retrieves the value for a key at a given timestamp | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [TimeBasedKeyValueStore.java](981-time-based-key-value-store/TimeBasedKeyValueStore.java) |
+| 994. Rotting Oranges | Determine the minimum number of minutes until no fresh orange remains by spreading rot from initially rotten oranges | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [RottingOranges.java](994-rotting-oranges/RottingOranges.java) |
 | 997. Find the Town Judge | Find the town judge who is trusted by everyone but trusts no one | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [FindTheTownJudge.java](997-find-the-town-judge/FindTheTownJudge.java) (Brute Force)<br/>[FindTheTownJudgeOptimal.java](997-find-the-town-judge/FindTheTownJudgeOptimal.java) (Optimal) |
 | 1046. Last Stone Weight | Determine which stone remains after all collisions, smashing the heaviest stones together | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [LastStoneWeight.java](1046-last-stone-weight/LastStoneWeight.java) |
 | 1137. N-th Tribonacci Number | Compute the nth value in the Tribonacci sequence, where each term is the sum of the previous three terms | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [nthTribonacciNumber.java](1137-n-th-tribonacci-number/nthTribonacciNumber.java) |
