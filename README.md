@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-**Total Problems Solved: 103**
+**Total Problems Solved: 104**
 
 ---
 
@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems as I work through alg
 | 200. Number of Islands | Count the number of islands in a 2D grid of land and water | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [NumberOfIslands.java](200-number-of-islands/NumberOfIslands.java) |
 | 202. Happy Number | Determine if repeatedly summing the squares of a number's digits eventually reaches 1 | [Happy Number](https://leetcode.com/problems/happy-number/) | [HappyNumber.java](202-happy-number/HappyNumber.java) |
 | 206. Reverse Linked List | Reverse a singly linked list | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ReverseLinkedList.java](206-reverse-linked-list/ReverseLinkedList.java) |
+| 209. Minimum Size Subarray Sum | Find the minimal length of a contiguous subarray of which the sum ≥ target; return 0 if none exists | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [MinimumSizeSubarraySum.java](209-minimum-size-subarray-sum/MinimumSizeSubarraySum.java) (Optimal) |
 | 213. House Robber II | Find the maximum money you can rob from houses arranged in a circle without robbing two adjacent houses | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [HouseRobberII.java](213-house-robber-ii/HouseRobberII.java) |
 | 215. Kth Largest Element in an Array | Find the kth largest element in an unsorted array | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [kthLargestElementInAnArrayMinHeap.java](215-kth-largest-element-in-an-array/kthLargestElementInAnArrayMinHeap.java) |
 | 217. Contains Duplicate | Find if an array contains any duplicate values | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ContainsDuplicate.java](217-contains-duplicate/ContainsDuplicate.java) |
